@@ -1,6 +1,3 @@
-# GPT-api-
-repo for generating prompts and using runCompletions from GPT api
-
 # Axios:
 
 axios is a library that provides a simple and easy-to-use interface for making HTTP requests in Node.js. In this particular case, it is used to make a GET request to the YouTube Search Results API to retrieve data in JSON format.
