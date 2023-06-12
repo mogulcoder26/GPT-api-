@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     const options = {
         method: 'GET',
         url: 'https://youtube-search-results.p.rapidapi.com/youtube-search/',
-        params: { q: 'justinbieber' },
+        params: { q: 'bing' },
         headers: {
             'X-RapidAPI-Key': '95992756cbmshdd903a59b07377ap1b3e73jsn36c4b8682a30',
             'X-RapidAPI-Host': 'youtube-search-results.p.rapidapi.com'
